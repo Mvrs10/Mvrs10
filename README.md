@@ -6,16 +6,16 @@
 <h2>👨‍💻 Academic Projects:</h2>
 
 - <b>Game Development (Unity/C#)</b>
-  - [Death to Dewy](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Space Shooter](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Death to Dewy](https://github.com/Mvrs10/Death-to-Dewy)
+  - [Space Shooter](https://github.com/Mvrs10/Space-Shooter)
 - <b>Software Development</b>
-  - [Course Management System](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
-  - [EDU Games SRS Documentation](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
-  - [IPO Console Application](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Course Management System](https://github.com/Mvrs10/Course-Management-System)
+  - [EDU Games SRS Documentation](https://github.com/Mvrs10/EDU-Games)
+  - [IPO Console Application](https://github.com/Mvrs10/IPO-Console-App)
 - <b>Front-end development(HTML/CSS/JS)</b>
-  - [Math Center Webpage](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Yu-Gi-Oh Duel Board](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Job Application Form](https://github.com/joshmadakor1/AD_PS)
+  - [Math Center Webpage](https://github.com/Mvrs10/Mathnasium-Webpage)
+  - [Yu-Gi-Oh Duel Board](https://github.com/Mvrs10/Yu-Gi-Oh_Duel-Board)
+  - [Job Application Form](https://github.com/Mvrs10/Online-Job-Application-Form)
 
 
 <h2> 🤳 Connect with me:</h2>
