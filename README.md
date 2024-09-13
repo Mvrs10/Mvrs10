@@ -5,7 +5,7 @@
 
 <h2>👨‍💻 Academic Projects:</h2>
 
-- <b>Game Development (Unity/C#)</b>
+- <b>Game Development</b>
   - [Death to Dewy](https://github.com/Mvrs10/Death-to-Dewy)
   - [Space Shooter](https://github.com/Mvrs10/Space-Shooter)
 - <b>Software Development</b>
