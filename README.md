@@ -14,7 +14,7 @@
   - [IPO Console Application](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>Front-end development(HTML/CSS/JS)</b>
   - [Math Center Webpage](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Yu-Gi-Oh Card Battle Board](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Yu-Gi-Oh Duel Board](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Job Application Form](https://github.com/joshmadakor1/AD_PS)
 
 
