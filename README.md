@@ -1,4 +1,7 @@
-<h1>Hi, My name is Minh Khoi! <br/><a href="https://github.com/Mvrs10">Programmer</a> | <a href="https://www.linkedin.com/in/mkp10">International Student</a> | <a href="https://www.linkedin.com/in/mkp10">Math Lover</a></h1>
+<h1>Hi👋🏻, My name is Minh Khoi! <br/><a href="https://github.com/Mvrs10">Game Designer</a> | <a href="https://www.linkedin.com/in/mkp10">Software Developer</a> | <a href="https://www.linkedin.com/in/mkp10">Math Lover</a></h1>
+
+<h2>🌐 Quick Summary</h2>
+<h3>I'm a long time gamer, math educator from Viet Nam ⭐ and an international student in Canada 🍁, majoring in Game-Programming 🎮.</h3>
 
 <h2>👨‍💻 Academic Projects:</h2>
 
