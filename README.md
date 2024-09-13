@@ -19,7 +19,7 @@
 
 
 <h2> 🤳 Connect with me:</h2>
-<img align="left" alt="MinhKhoi | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" /><small><i><a align="left" href="mailto:pmka42@gmail.com">pmka42@gmail.com</a></i></small>
+<small><i><a align="left" href="mailto:pmka42@gmail.com">pmka42@gmail.com <img align="left" alt="MinhKhoi | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" /></a></i></small><br>
 
 <a align="left" href="https://www.linkedin.com/in/mkp10">Minh Khoi Phan <img align="left" alt="MinhKhoi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><br>
 <a align="left" href="https://discord.com/">PMK#6272<img align="left" alt="MinhKhoi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" /></a>
