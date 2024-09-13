@@ -5,10 +5,10 @@
 
 <h2>👨‍💻 Academic Projects:</h2>
 
-- <b>Game Development</b>
+- <b>Game development</b>
   - [Death to Dewy](https://github.com/Mvrs10/Death-to-Dewy)
   - [Space Shooter](https://github.com/Mvrs10/Space-Shooter)
-- <b>Software Development</b>
+- <b>Software development</b>
   - [Course Management System](https://github.com/Mvrs10/Course-Management-System)
   - [EDU Games SRS Documentation](https://github.com/Mvrs10/EDU-Games)
   - [IPO Console Application](https://github.com/Mvrs10/IPO-Console-App)
