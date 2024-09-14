@@ -9,9 +9,9 @@
   - [Death to Dewy](https://github.com/Mvrs10/Death-to-Dewy)
   - [Space Shooter](https://github.com/Mvrs10/Space-Shooter)
 - <b>Software development</b>
-  - [Course Management System](https://github.com/Mvrs10/Course-Management-System)
+  - [Task Management System](https://github.com/Mvrs10/Course-Management-System)
   - [EDU Games SRS Documentation](https://github.com/Mvrs10/EDU-Games)
-  - [IPO Console Application](https://github.com/Mvrs10/IPO-Console-App)
+  - [IPO Console Application](https://github.com/Mvrs10/IPO-ConsoleApp)
 - <b>Front-end development</b>
   - [Math Center Webpage](https://github.com/Mvrs10/Mathnasium-Webpage)
   - [Yu-Gi-Oh Duel Board](https://github.com/Mvrs10/Yu-Gi-Oh_Duel-Board)
