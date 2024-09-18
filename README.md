@@ -13,7 +13,7 @@
   - [Task Management System](https://github.com/Mvrs10/LAB89)
   - [EDU Games SRS Documentation](https://github.com/Mvrs10/EDU-Games)
   - [IPO Console Application](https://github.com/Mvrs10/IPO-ConsoleApp)
-  - [Linux Math Application](https://github.com/Mvrs10/Linux-Math-App/blob/main/README.md)
+  - [Linux Math Application](https://github.com/Mvrs10/Linux-Math-App)
 - <b>Front-end development</b>
   - [Math Center Webpage](https://github.com/Mvrs10/Mathnasium-Webpage)
   - [Yu-Gi-Oh Duel Board](https://github.com/Mvrs10/Yu-Gi-Oh_Duel-Board)
