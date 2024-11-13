@@ -10,11 +10,14 @@
   - [Space Shooter](https://github.com/Mvrs10/Space-Shooter)
   - [Game Assets](https://github.com/Mvrs10/Game-Assets)
 - <b>Software development</b>
+  - [JavaFX Application Form](https://github.com/Mvrs10/JavaFX-Application)
   - [Task Management System](https://github.com/Mvrs10/LAB89)
   - [EDU Games SRS Documentation](https://github.com/Mvrs10/EDU-Games)
   - [IPO Console Application](https://github.com/Mvrs10/IPO-ConsoleApp)
   - [Linux Math Application](https://github.com/Mvrs10/Linux-Math-App)
-- <b>Front-end development</b>
+- <b>WebApp development</b>
+  - [E-Commerce Website](https://github.com/Mvrs10/Ecommerce-Website)
+  - [Portfolio](https://github.com/Mvrs10/COMP229-Portfolio)
   - [Math Center Webpage](https://github.com/Mvrs10/Mathnasium-Webpage)
   - [Yu-Gi-Oh Duel Board](https://github.com/Mvrs10/Yu-Gi-Oh_Duel-Board)
   - [Job Application Form](https://github.com/Mvrs10/Online-Job-Application-Form)
