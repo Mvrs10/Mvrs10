@@ -10,8 +10,8 @@
   - [Space Shooter](https://github.com/Mvrs10/Space-Shooter)
   - [Game Assets](https://github.com/Mvrs10/Game-Assets)
 - <b>Software development</b>
-  - [JavaFX Application Form](https://github.com/Mvrs10/JavaFX-Application)
   - [Task Management System(C#)](https://github.com/Mvrs10/LAB89)
+  - [JavaFX Application Form](https://github.com/Mvrs10/JavaFX-Application)
   - [EDU Games SRS Documentation](https://github.com/Mvrs10/EDU-Games)
   - [IPO Console Application](https://github.com/Mvrs10/IPO-ConsoleApp)
   - [Linux Math Application](https://github.com/Mvrs10/Linux-Math-App)
