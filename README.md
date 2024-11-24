@@ -12,7 +12,7 @@
 - <b>Software development</b>
   - [Task Management System(C#)](https://github.com/Mvrs10/LAB89)
   - [JavaFX Application Form](https://github.com/Mvrs10/JavaFX-Application)
-  - [JDBC Application(WIP)](https://github.com/Mvrs10/JDBC-Application)
+  - [JDBC Application](https://github.com/Mvrs10/JDBC-Application)
   - [EDU Games SRS Documentation](https://github.com/Mvrs10/EDU-Games)
   - [IPO Console Application](https://github.com/Mvrs10/IPO-ConsoleApp)
   - [Linux Math Application](https://github.com/Mvrs10/Linux-Math-App)
