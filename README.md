@@ -7,6 +7,7 @@
 
 - <b>Game development</b>
   - [Death to Dewy](https://github.com/Mvrs10/Death-to-Dewy)
+  - [Squidz](https://github.com/Mvrs10/Squidz)
   - [Space Shooter](https://github.com/Mvrs10/Space-Shooter)
   - [Game Assets](https://github.com/Mvrs10/Game-Assets)
 - <b>Software development</b>
