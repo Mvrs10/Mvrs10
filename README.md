@@ -17,9 +17,10 @@
   - [EDU Games SRS Documentation](https://github.com/Mvrs10/EDU-Games)
   - [IPO Console Application](https://github.com/Mvrs10/IPO-ConsoleApp)
   - [Linux Math Application](https://github.com/Mvrs10/Linux-Math-App)
-- <b>WebApp development</b>
-  - [Portfolio](https://github.com/Mvrs10/COMP229-Portfolio)
+- <b>Web Application</b>
+  - [Online Game Store](https://github.com/Mvrs10/Ecommerce-Website)
   - [Math Center Webpage](https://github.com/Mvrs10/Mathnasium-Webpage)
+  - [Portfolio](https://github.com/Mvrs10/COMP229-Portfolio)
   - [Yu-Gi-Oh Duel Board](https://github.com/Mvrs10/Yu-Gi-Oh_Duel-Board)
   - [Job Application Form](https://github.com/Mvrs10/Online-Job-Application-Form)
 
