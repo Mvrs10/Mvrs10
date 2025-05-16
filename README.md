@@ -9,7 +9,7 @@
   - [Death to Dewy](https://github.com/Mvrs10/Death-to-Dewy)
   - [Squidz](https://github.com/Mvrs10/Squidz)
   - [Space Shooter](https://github.com/Mvrs10/Space-Shooter)
-  - [Game Assets](https://github.com/Mvrs10/Game-Assets)
+  - [Game Assets - Blender](https://github.com/Mvrs10/Game-Assets)
 - <b>Software development</b>
   - [Task Management System(C#)](https://github.com/Mvrs10/LAB89)
   - [JavaFX Application Form](https://github.com/Mvrs10/JavaFX-Application)
