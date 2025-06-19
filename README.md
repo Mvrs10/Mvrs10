@@ -6,23 +6,26 @@
 <h2>👨‍💻 Academic Projects:</h2>
 
 - <b>Game development</b>
-  - [Death to Dewy](https://github.com/Mvrs10/Death-to-Dewy)
-  - [Squidz](https://github.com/Mvrs10/Squidz)
+  - [Death to Dewy - Unity2D](https://github.com/Mvrs10/Death-to-Dewy)
+  - [Squidz - Unity2D](https://github.com/Mvrs10/Squidz)
   - [Space Shooter](https://github.com/Mvrs10/Space-Shooter)
   - [Game Assets - Blender](https://github.com/Mvrs10/Game-Assets)
+  - [Arcade Garden - C++(WIP)](https://github.com/Mvrs10/ArcadeGarden)
+  - [Wanadanz - Unity3D(WIP)](https://github.com/Mvrs10/Wanadanz)
 - <b>Software development</b>
-  - [Task Management System(C#)](https://github.com/Mvrs10/LAB89)
-  - [JavaFX Application Form](https://github.com/Mvrs10/JavaFX-Application)
-  - [JDBC Application](https://github.com/Mvrs10/JDBC-Application)
-  - [EDU Games SRS Documentation](https://github.com/Mvrs10/EDU-Games)
+  - [Task Management System - C#](https://github.com/Mvrs10/LAB89)
+  - [Data Structures & Algorithms - C#](https://github.com/Mvrs10/LC_Solutions)
+  - [JavaFX Application Form - Java](https://github.com/Mvrs10/JavaFX-Application)
+  - [JDBC Application - Java/MySQL](https://github.com/Mvrs10/JDBC-Application)
+  - [EDU Games SRS Documentation - Visio/VisualParadigm](https://github.com/Mvrs10/EDU-Games)
   - [IPO Console Application](https://github.com/Mvrs10/IPO-ConsoleApp)
   - [Linux Math Application](https://github.com/Mvrs10/Linux-Math-App)
 - <b>Web Application</b>
-  - [Online Game Store](https://github.com/Mvrs10/Ecommerce-Website)
-  - [Math Center Webpage](https://github.com/Mvrs10/Mathnasium-Webpage)
+  - [Online Game Store - MERN](https://github.com/Mvrs10/Ecommerce-Website)
+  - [Math Center Webpage - HTML/CSS](https://github.com/Mvrs10/Mathnasium-Webpage)
   - [Portfolio](https://github.com/Mvrs10/COMP229-Portfolio)
-  - [Yu-Gi-Oh Duel Board](https://github.com/Mvrs10/Yu-Gi-Oh_Duel-Board)
-  - [Job Application Form](https://github.com/Mvrs10/Online-Job-Application-Form)
+  - [Yu-Gi-Oh Duel Board - JavaScript](https://github.com/Mvrs10/Yu-Gi-Oh_Duel-Board)
+  - [Job Application Form - HTML/CSS](https://github.com/Mvrs10/Online-Job-Application-Form)
 
 
 <h2> 🤳 Connect with me:</h2>
