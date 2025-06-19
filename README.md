@@ -24,7 +24,7 @@
 - <b>Web Application</b>
   - [Online Game Store - MERN](https://github.com/Mvrs10/Ecommerce-Website)
   - [Math Center Webpage - HTML/CSS](https://github.com/Mvrs10/Mathnasium-Webpage)
-  - [Portfolio](https://github.com/Mvrs10/COMP229-Portfolio)
+  - [React portfolio](https://github.com/Mvrs10/COMP229-Portfolio)
   - [Yu-Gi-Oh Duel Board - JavaScript](https://github.com/Mvrs10/Yu-Gi-Oh_Duel-Board)
   - [Job Application Form - HTML/CSS](https://github.com/Mvrs10/Online-Job-Application-Form)
 
