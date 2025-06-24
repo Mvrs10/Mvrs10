@@ -11,7 +11,7 @@
   - [Fundamentals of CPP - C++](https://github.com/Mvrs10/CPP_NewB)
   - [JavaFX Application Form - Java](https://github.com/Mvrs10/JavaFX-Application)
   - [JDBC Application - Java/MySQL](https://github.com/Mvrs10/JDBC-Application)
-  - [EDU Games SRS Documentation - Visio/VisualParadigm](https://github.com/Mvrs10/EDU-Games)
+  - [EDU Games SRS Documentation - Word/Visio/VisualParadigm](https://github.com/Mvrs10/EDU-Games)
   - [IPO Console Application](https://github.com/Mvrs10/IPO-ConsoleApp)
   - [Linux Math Application](https://github.com/Mvrs10/Linux-Math-App)
 - <b>Web Applications</b>
