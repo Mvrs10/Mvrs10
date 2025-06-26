@@ -9,7 +9,7 @@
   - [Task Management System - C#](https://github.com/Mvrs10/LAB89)
   - [Data Structures & Algorithms - C#](https://github.com/Mvrs10/LC_Solutions)
   - [Arcade Garden - C++](https://github.com/Mvrs10/ArcadeGarden)
-  - [Fundamentals of CPP - C++](https://github.com/Mvrs10/CPP_NewB)
+  - [DSA - C++](https://github.com/Mvrs10/CPP_NewB)
   - [JavaFX Application Form - Java](https://github.com/Mvrs10/JavaFX-Application)
   - [JDBC Application - Java/MySQL](https://github.com/Mvrs10/JDBC-Application)
   - [EDU Games SRS Documentation - Word/Visio/VisualParadigm](https://github.com/Mvrs10/EDU-Games)
