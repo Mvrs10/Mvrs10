@@ -8,6 +8,7 @@
 - <b>Software development</b>
   - [Task Management System - C#](https://github.com/Mvrs10/LAB89)
   - [Data Structures & Algorithms - C#](https://github.com/Mvrs10/LC_Solutions)
+  - [Arcade Garden - C++](https://github.com/Mvrs10/ArcadeGarden)
   - [Fundamentals of CPP - C++](https://github.com/Mvrs10/CPP_NewB)
   - [JavaFX Application Form - Java](https://github.com/Mvrs10/JavaFX-Application)
   - [JDBC Application - Java/MySQL](https://github.com/Mvrs10/JDBC-Application)
@@ -25,7 +26,7 @@
   - [Squidz - Unity2D](https://github.com/Mvrs10/Squidz)
   - [Space Shooter - Unity2D](https://github.com/Mvrs10/Space-Shooter)
   - [Game Assets - Blender](https://github.com/Mvrs10/Game-Assets)
-  - [Arcade Garden - C++(WIP)](https://github.com/Mvrs10/ArcadeGarden)
+  - [Arcade Garden - C++](https://github.com/Mvrs10/ArcadeGarden)
   - [Wanadanz - Unity3D(WIP)](https://github.com/Mvrs10/Wanadanz)
 
 <h2> 🤳 Connect with me:</h2>
