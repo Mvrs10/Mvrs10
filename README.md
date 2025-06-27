@@ -16,7 +16,7 @@
   - [EDU Games SRS Documentation - Word/Visio/VisualParadigm](https://github.com/Mvrs10/EDU-Games)
   - [IPO Console Application](https://github.com/Mvrs10/IPO-ConsoleApp)
   - [Linux Math Application](https://github.com/Mvrs10/Linux-Math-App)
-- <b>Web Applications</b>
+- <b>Web development</b>
   - [Online Game Store - MERN](https://github.com/Mvrs10/Ecommerce-Website)
   - [Math Center Webpage - HTML/CSS](https://github.com/Mvrs10/Mathnasium-Webpage)
   - [React portfolio(WIP)](https://github.com/Mvrs10/COMP229-Portfolio)
