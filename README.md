@@ -20,8 +20,8 @@
   - [Online Game Store - MERN](https://github.com/Mvrs10/Ecommerce-Website)
   - [Math Center Webpage - HTML/CSS](https://github.com/Mvrs10/Mathnasium-Webpage)
   - [React portfolio(WIP)](https://github.com/Mvrs10/COMP229-Portfolio)
-  - [Yu-Gi-Oh Duel Board - JavaScript](https://github.com/Mvrs10/Yu-Gi-Oh_Duel-Board)
-  - [Job Application Form - HTML/CSS](https://github.com/Mvrs10/Online-Job-Application-Form)
+  - [Yu-Gi-Oh Duel Board - HTML/CSS/JavaScript](https://github.com/Mvrs10/Yu-Gi-Oh_Duel-Board)
+  - [Job Application Form - HTML/CSS/JavaScript](https://github.com/Mvrs10/Online-Job-Application-Form)
 - <b>Game development</b>
   - [Death to Dewy - Unity2D](https://github.com/Mvrs10/Death-to-Dewy)
   - [Squidz - Unity2D](https://github.com/Mvrs10/Squidz)
