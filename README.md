@@ -4,7 +4,7 @@
 <h3>I'm a lifelong learner, enthusiastic educator from Viet Nam ⭐ and an international student in Canada 🍁, majoring in Software/Game Development 🎮.</h3>
 <h3>Besides coding, I'm also a soccer captain ⚽, an outdoor runner with 30km/week on Strava 👟, and a home cook 👨‍🍳.</h3>
 
-<h2>👨‍💻 Academic Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - <b>Software development</b>
   - [Task Management System - C#](https://github.com/Mvrs10/LAB89)
