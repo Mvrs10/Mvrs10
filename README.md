@@ -1,7 +1,7 @@
 <h1>Hi👋🏻, My name is Minh Khoi! <br/><a href="https://github.com/Mvrs10">Software Developer</a> | <a href="https://www.linkedin.com/in/mkp10">Logic Lover</a> | <a href="https://www.linkedin.com/in/mkp10">Math Enthusiast</a></h1>
 
 <h2>🌐 Quick Summary</h2>
-<h3>I'm a lifelong learner, enthusiastic educator from Viet Nam ⭐ and an international student in Canada 🍁, majoring in Software/Game Development 🎮.</h3>
+<h3>A lifelong learner, enthusiastic educator from Viet Nam ⭐ and an international student in Canada 🍁, majoring in Software/Game Development 🎮.</h3>
 <h3>Besides coding, I'm also a soccer captain ⚽, an outdoor runner with 30km/week on Strava 👟, and a home cook 👨‍🍳.</h3>
 
 <h2>👨‍💻 Projects:</h2>
@@ -14,14 +14,13 @@
   - [JavaFX Application Form - Java](https://github.com/Mvrs10/JavaFX-Application)
   - [JDBC Application - Java/MySQL](https://github.com/Mvrs10/JDBC-Application)
   - [EDU Games SRS Documentation - Word/Visio/VisualParadigm](https://github.com/Mvrs10/EDU-Games)
-  - [IPO Console Application](https://github.com/Mvrs10/IPO-ConsoleApp)
   - [Linux Math Application](https://github.com/Mvrs10/Linux-Math-App)
 - <b>Web development</b>
   - [Online Game Store - MERN](https://github.com/Mvrs10/Ecommerce-Website)
   - [Math Center Webpage - HTML/CSS](https://github.com/Mvrs10/Mathnasium-Webpage)
+  - [Job Application Form - HTML/CSS/JavaScript](https://github.com/Mvrs10/Online-Job-Application-Form) 
+  - [Yu-Gi-Oh Duel Board - HTML/CSS/JavaScript](https://github.com/Mvrs10/Yu-Gi-Oh_Duel-Board)  
   - [React portfolio(WIP)](https://github.com/Mvrs10/COMP229-Portfolio)
-  - [Yu-Gi-Oh Duel Board - HTML/CSS/JavaScript](https://github.com/Mvrs10/Yu-Gi-Oh_Duel-Board)
-  - [Job Application Form - HTML/CSS/JavaScript](https://github.com/Mvrs10/Online-Job-Application-Form)
 - <b>Game development</b>
   - [Death to Dewy - Unity2D](https://github.com/Mvrs10/Death-to-Dewy)
   - [Squidz - Unity2D](https://github.com/Mvrs10/Squidz)
