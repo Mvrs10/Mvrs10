@@ -12,7 +12,7 @@
   - [Arcade Garden - C++](https://github.com/Mvrs10/ArcadeGarden)
   - [DSA - C++](https://github.com/Mvrs10/CPP_NewB)
   - [JavaFX Application Form - Java](https://github.com/Mvrs10/JavaFX-Application)
-  - [JDBC Application - Java/MySQL](https://github.com/Mvrs10/JDBC-Application)
+  - [Game Registration App - Java/SQL](https://github.com/Mvrs10/JDBC-Application)
   - [EDU Games SRS Documentation - Word/Visio/VisualParadigm](https://github.com/Mvrs10/EDU-Games)
   - [Linux Math Application](https://github.com/Mvrs10/Linux-Math-App)
 - <b>Web development</b>
