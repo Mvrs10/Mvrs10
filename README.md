@@ -1,7 +1,7 @@
 <h1>Hi👋🏻, My name is Minh Khoi! <br/><a href="https://github.com/Mvrs10">Software Developer</a> | <a href="https://www.linkedin.com/in/mkp10">Logic Lover</a> | <a href="https://www.linkedin.com/in/mkp10">Math Enthusiast</a></h1>
 
 <h2>🌐 Quick Summary</h2>
-<h3>A lifelong learner, enthusiastic educator from Viet Nam ⭐ and an international student in Canada 🍁, majoring in Software/Game Development 🎮.</h3>
+<h3>A lifelong learner, enthusiastic coder ⭐ and a student in Toronto 🍁, majoring in Software Engineering Technology 🎮.</h3>
 <h3>Besides coding, I'm also a soccer captain ⚽, an outdoor runner with 30km/week on Strava 👟, and a home cook 👨‍🍳.</h3>
 
 <h2>👨‍💻 Projects:</h2>
