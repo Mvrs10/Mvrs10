@@ -22,9 +22,9 @@
   - [Yu-Gi-Oh Duel Board - HTML/CSS/JavaScript](https://github.com/Mvrs10/Yu-Gi-Oh_Duel-Board)  
   - [React portfolio(WIP)](https://github.com/Mvrs10/COMP229-Portfolio)
 - <b>Game development</b>
-  - [Death to Dewy - Unity2D](https://github.com/Mvrs10/Death-to-Dewy)
+  - [ARNA - UE4](https://github.com/Mvrs10/Death-to-Dewy)
   - [Squidz - Unity2D](https://github.com/Mvrs10/Squidz)
-  - [Space Shooter - Unity2D](https://github.com/Mvrs10/Space-Shooter)
+  - [Starship - Unity2D](https://github.com/Mvrs10/Space-Shooter)
   - [Game Assets - Blender](https://github.com/Mvrs10/Game-Assets)
   - [Arcade Garden - C++](https://github.com/Mvrs10/ArcadeGarden)
   - [Wanadanz - Unity3D(WIP)](https://github.com/Mvrs10/Wanadanz)
